@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = 'your-api-key-here'
+openai.api_key = ''
 
 def get_chatgpt_response(prompt, temperature=0.7):
     response = openai.Completion.create(

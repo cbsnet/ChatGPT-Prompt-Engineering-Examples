@@ -38,8 +38,8 @@ This repository showcases examples of personalized ChatGPT solutions and prompt 
 - **Python Prompt Example 3**: Creating a personalized chatbot for financial services.
 - **Python Prompt Example 4**: Content creation automation with ChatGPT and Python
 
-## Prompt Examples
-- **Prompt Example 1**: Basic FAQ handling with AI.
-- **Prompt Example 2**: Automating customer support responses.
-- **Prompt Example 3**: Creating a personalized chatbot for financial services.
-- **Prompt Example 4**: Content creation automation with ChatGPT and Python
+## ChatGPT Prompt Examples
+- **Prompt Example 1**: Company Branding Guide with ChatGPT.
+- **Prompt Example 2**: Business Idea Extraction Assistant.
+- **Prompt Example 3**: Educational Long Content Creator.
+- **Prompt Example 4**: Malware Analyzer Expert with ChatGPT.
